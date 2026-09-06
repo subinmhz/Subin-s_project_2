@@ -239,7 +239,7 @@ function l() {
                             "data-tsd-source": `/src/routes/index.tsx:232:15`,
                             children: `I care about the half-second between tap and response, the weight of a label, and the way light sits on a surface. Based in Kathmandu, working with product teams and independents across the world to ship interfaces that feel considered.`
                         }), (0, a.jsxs)(`div`, {
-                            className: `mt-8 flex gap-10 font-mono text-sm text-muted`,
+                            className: `mt-8 flex flex-wrap gap-10 font-mono text-sm text-muted`,
                             style: {
                                 fontFamily: `var(--font-mono)`
                             },
@@ -252,8 +252,8 @@ function l() {
                                         fontWeight: 700
                                     },
                                     "data-tsd-source": `/src/routes/index.tsx:243:19`,
-                                    children: `08`
-                                }), `Years`]
+                                    children: `1`
+                                }), `Experience: 1 year`]
                             }), (0, a.jsxs)(`div`, {
                                 "data-tsd-source": `/src/routes/index.tsx:251:17`,
                                 children: [(0, a.jsx)(`div`, {
@@ -262,8 +262,8 @@ function l() {
                                         fontWeight: 700
                                     },
                                     "data-tsd-source": `/src/routes/index.tsx:252:19`,
-                                    children: `42`
-                                }), `Projects`]
+                                    children: `1`
+                                }), `Jobs: 1`]
                             }), (0, a.jsxs)(`div`, {
                                 "data-tsd-source": `/src/routes/index.tsx:260:17`,
                                 children: [(0, a.jsx)(`div`, {
@@ -272,8 +272,38 @@ function l() {
                                         fontWeight: 700
                                     },
                                     "data-tsd-source": `/src/routes/index.tsx:261:19`,
-                                    children: `06`
-                                }), `Awards`]
+                                    children: `01`
+                                }), `Achievement`]
+                            }), (0, a.jsxs)(`div`, {
+                                className: `mt-8 border-l border-lumen/40 pl-4`,
+                                "data-tsd-source": `/src/routes/index.tsx:267:15`,
+                                children: [(0, a.jsx)(`p`, {
+                                    className: `text-xs uppercase tracking-[0.15em] text-lumen`,
+                                    style: { fontFamily: `var(--font-mono)` },
+                                    children: `Achievement`
+                                }), (0, a.jsx)(`p`, {
+                                    className: `mt-2 text-sm text-muted`,
+                                    children: `Shipped a polished portfolio experience that brings design and engineering together.`
+                                })]
+                            })]
+                        }), (0, a.jsxs)(`div`, {
+                            className: `mt-10 border-t border-line pt-6`,
+                            "data-tsd-source": `/src/routes/index.tsx:367:15`,
+                            children: [(0, a.jsx)(`p`, {
+                                className: `text-xs uppercase tracking-[0.15em] text-lumen`,
+                                style: { fontFamily: `var(--font-mono)` },
+                                children: `Customer Service`
+                            }), (0, a.jsxs)(`div`, {
+                                className: `mt-3 flex flex-col gap-2 text-sm text-muted`,
+                                children: [(0, a.jsx)(`a`, {
+                                    href: `mailto:subinmhz7@gmail.com`,
+                                    className: `hover:text-lumen transition-colors duration-200`,
+                                    children: `Email: subinmhz7@gmail.com`
+                                }), (0, a.jsx)(`a`, {
+                                    href: `tel:9875829349`,
+                                    className: `hover:text-lumen transition-colors duration-200`,
+                                    children: `Phone: 9875829349`
+                                })]
                             })]
                         })]
                     })]
