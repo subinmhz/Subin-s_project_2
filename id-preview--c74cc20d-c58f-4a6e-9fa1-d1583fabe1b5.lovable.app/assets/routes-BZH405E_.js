@@ -4,7 +4,7 @@ import {
     t as n
 } from "./index-CDFjNYd0.js";
 var r = t(e()),
-    i = `/assets/portrait-DGYQPsUx.jpg`,
+    i = `assets/photo.jpg`,
     a = n(),
     o = [{
         no: `01`,
@@ -137,9 +137,10 @@ function l() {
                                 "data-tsd-source": `/src/routes/index.tsx:159:17`
                             })]
                         }), (0, a.jsxs)(`h1`, {
-                            className: `font-display text-balance leading-[0.92] tracking-tight text-[clamp(3.2rem,9vw,7.5rem)]`,
+                            className: `font-display text-balance leading-[0.92] tracking-tight text-[clamp(3.8rem,10vw,9rem)]`,
                             style: {
-                                fontWeight: 800
+                                fontWeight: 800,
+                                fontSize: `clamp(3.8rem, 10vw, 9rem)`
                             },
                             "data-tsd-source": `/src/routes/index.tsx:161:15`,
                             children: [`Subin`, (0, a.jsx)(`br`, {

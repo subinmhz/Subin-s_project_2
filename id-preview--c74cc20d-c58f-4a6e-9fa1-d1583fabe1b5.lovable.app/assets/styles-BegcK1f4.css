@@ -962,10 +962,10 @@
         rotate: 90deg
     }
     .reveal {
-        opacity: 0;
+        opacity: 1;
         transition: opacity .8s var(--ease), transform .8s var(--ease);
         will-change: opacity, transform;
-        transform: translateY(24px)
+        transform: none
     }
     .reveal.is-visible {
         opacity: 1;
@@ -1550,8 +1550,8 @@
     .text-\[11px\] {
         font-size: 11px
     }
-    .text-\[clamp\(3\.2rem\, 9vw\, 7\.5rem\)\] {
-        font-size: clamp(3.2rem, 9vw, 7.5rem)
+    .text-\[clamp\(3\.8rem\, 10vw\, 9rem\)\] {
+        font-size: clamp(3.8rem, 10vw, 9rem)
     }
     .leading-\[0\.92\] {
         --tw-leading: .92;
